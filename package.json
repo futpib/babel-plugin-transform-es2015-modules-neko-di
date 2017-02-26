@@ -1,0 +1,20 @@
+{
+  "name": "babel-plugin-transform-es2015-modules-neko-di",
+  "version": "1.0.0",
+  "description": "This plugin transforms ES2015 modules to neko-di",
+  "main": "index.js",
+  "repository": {},
+  "author": "futpib <futpib@gmail.com>",
+  "license": "GPL-3.0+",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "babel-core": "^6.23.1",
+    "xo": "^0.17.1"
+  },
+  "dependencies": {
+    "babel-plugin-transform-es2015-modules-amd": "^6.22.0"
+  }
+}
