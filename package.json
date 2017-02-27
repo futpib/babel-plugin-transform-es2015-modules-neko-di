@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-es2015-modules-neko-di",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This plugin transforms ES2015 modules to neko-di",
   "main": "index.js",
   "repository": {},
